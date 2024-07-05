@@ -1,14 +1,4 @@
 # Heart Attack Prediction
-
-Submitted in partial fulfillment for the award of the degree of Bachelor Of Technology in Computer Science and Engineering  
-Specialization in Artificial Intelligence and Machine Learning. 
-
-**SAI PRANAV KOTHAPALLI**
-
-School of Computer Science and Engineering  
-VIT-AP University  
-June, 2024  
-
 ---
 
 <img width="1440" alt="Screenshot 2024-07-05 at 1 04 22 PM" src="https://github.com/saipranavkothapalli/Heart-Attack-Prediction/assets/144220767/5cf180b5-b83a-459e-ba3e-7ebcdaf521b7">
